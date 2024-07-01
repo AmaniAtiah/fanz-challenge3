@@ -32,7 +32,6 @@ function findMaxAndMin($arr)
     // This is because we need to iterate through each element in the array once to find the maximum and minimum numbers.
 
 
-
 }
 
 
